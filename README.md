@@ -1,4 +1,4 @@
-## 👋 ola! Bem-vindo ao meu perfil do Github.
+## 👋 Ola! Bem-vindo ao meu perfil do Github.
 ### Meu nome é Valeria 
 
 
